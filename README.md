@@ -13,3 +13,13 @@ Power BI
 
 ## Pivoting & Unpivoting
 ![pivoting_unpivoting](https://github.com/pratyushkiran/Power_BI/assets/124147747/36edf97c-120e-42f8-a8a4-6bc93f4e98fb)
+
+
+## Step by Step Measure Calculation
+![image](https://github.com/pratyushkiran/Power_BI/assets/124147747/9d73554d-b543-45aa-9c71-f2eabf77cbd2)
+
+
+## Common DAX Function Categories  
+![image](https://github.com/pratyushkiran/Power_BI/assets/124147747/76791d38-9b79-4d0f-8c26-c858de8576ac)
+
+## Basic Math & Stats Functions![image](https://github.com/pratyushkiran/Power_BI/assets/124147747/a660472f-d442-41b9-b8bb-869cc1e7ab8b)
