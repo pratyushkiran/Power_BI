@@ -98,5 +98,9 @@ Customer Full Name (CC) =
 ## Basic Date and Time Functions
 ![download](https://github.com/pratyushkiran/Power_BI/assets/124147747/f0e57567-410c-44f6-bd80-f78611985dd7)
 
+
+## Filter Function
+![screenshot-nimbusweb me-2023 08 18-15_16_23](https://github.com/pratyushkiran/Power_BI/assets/124147747/cb95d7d9-93a4-4622-b0cc-d6eecee67d01)
+
  
 
